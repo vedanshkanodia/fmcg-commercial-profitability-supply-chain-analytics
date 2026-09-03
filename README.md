@@ -211,7 +211,6 @@ Supply-chain performance should be considered alongside commercial performance w
 fmcg-commercial-profitability-supply-chain-analytics/
 │
 ├── dashboard/
-│   ├── .gitkeep
 │   └── dashboard_screenshot.png
 │
 ├── insights/
